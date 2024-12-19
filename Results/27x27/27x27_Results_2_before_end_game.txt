@@ -1,0 +1,80 @@
+-----------------------------------------
+Result for HEXGAME
+-----------------------------------------
+Training time: 0.37 min
+Boardsize: 27x27
+Acurracy: 46.10%
+Clauses: 1
+Threshold (T): 7000
+s-value: 0.6
+
+-----------------------------------------
+Result for HEXGAME
+-----------------------------------------
+Training time: 0.44 min
+Boardsize: 27x27
+Acurracy: 51.20%
+Clauses: 10
+Threshold (T): 7000
+s-value: 0.6
+
+-----------------------------------------
+Result for HEXGAME
+-----------------------------------------
+Training time: 0.49 min
+Boardsize: 27x27
+Acurracy: 51.55%
+Clauses: 50
+Threshold (T): 7000
+s-value: 0.6
+
+-----------------------------------------
+Result for HEXGAME
+-----------------------------------------
+Training time: 0.50 min
+Boardsize: 27x27
+Acurracy: 51.20%
+Clauses: 100
+Threshold (T): 7000
+s-value: 0.6
+
+-----------------------------------------
+Result for HEXGAME
+-----------------------------------------
+Training time: 0.53 min
+Boardsize: 27x27
+Acurracy: 51.80%
+Clauses: 500
+Threshold (T): 7000
+s-value: 0.6
+
+-----------------------------------------
+Result for HEXGAME
+-----------------------------------------
+Training time: 0.55 min
+Boardsize: 27x27
+Acurracy: 48.80%
+Clauses: 1000
+Threshold (T): 7000
+s-value: 0.6
+
+-----------------------------------------
+Result for HEXGAME
+-----------------------------------------
+Training time: 0.77 min
+Boardsize: 27x27
+Acurracy: 50.65%
+Clauses: 5000
+Threshold (T): 7000
+s-value: 0.6
+
+-----------------------------------------
+Result for HEXGAME
+-----------------------------------------
+Training time: 1.26 min
+Boardsize: 27x27
+Acurracy: 50.40%
+Clauses: 10000
+Threshold (T): 7000
+s-value: 0.6
+
