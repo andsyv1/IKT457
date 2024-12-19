@@ -1,5 +1,0 @@
-__pycache__/
-*.so
-*.pyc
-.ipynb_checkpoints/
-build/
