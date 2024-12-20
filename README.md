@@ -8,4 +8,4 @@ But the functions that i used to get the state of the moves at end, two moves be
 
 Grap_T_init_.py has been made whit help from the github https://github.com/cair/TsetlinMachine
 
-I have had help from chat GPT to find i way to plot the graphs in visualize.py 
+I have had help from chat GPT to find i way to plot the graphs whit the nodes and egdes in visualize.py 
